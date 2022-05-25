@@ -1,0 +1,6 @@
+{
+    "data": {
+        "encrypted_data1": "SDRzSUFBQUFBQUFBQ292S3RhejBpVWpKU1l6d3lrNXlkeXRQY2Jjczl3bDNxMHFKOEMxSmRUWXNUODYxekl3TXJ5aE9qVWdwU0hIUE1BS3FNMHcyQ3FzQ0FKS3RISm80QUFBQQ==",
+        "how_to_decrypt": "base64 => gzip => base64"
+    }
+}
